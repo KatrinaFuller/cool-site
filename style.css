@@ -3,3 +3,36 @@
   min-height: 15vh;
   border: 2px solid black;
 }
+
+.middle-row{
+  background-color: wheat;
+  min-height: 65vh;
+}
+
+.blue-bar{
+  background-color: #71c7ec;
+  height: 20px;
+  width: auto;
+}
+
+.padding{
+  padding: 80px;
+
+}
+
+h3{
+  padding: 10px;
+}
+
+.blue-box{
+  background-color: #71c7ec;
+  height: 100px;
+  width: auto;
+}
+
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
