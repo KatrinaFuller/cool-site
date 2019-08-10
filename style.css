@@ -5,7 +5,7 @@
 }
 
 .middle-row{
-  background-color: wheat;
+  background-color: white;
   min-height: 65vh;
 }
 
@@ -35,4 +35,10 @@ h3{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.bottom-row{
+  background-color: #2943c3;
+  min-height: 19vh;
+  border: 2px solid black;
 }
